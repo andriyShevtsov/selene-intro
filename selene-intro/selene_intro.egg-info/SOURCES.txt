@@ -1,0 +1,8 @@
+README.rst
+setup.py
+selene_intro/__init__.py
+selene_intro.egg-info/PKG-INFO
+selene_intro.egg-info/SOURCES.txt
+selene_intro.egg-info/dependency_links.txt
+selene_intro.egg-info/requires.txt
+selene_intro.egg-info/top_level.txt
